@@ -1,9 +1,3 @@
-/*
-  TODO: 
-		  
-	POTENTIAL ISSUES: [ ] - 
-*/
-
 /* NODE */
 var NodeSys = require("sys");
 
